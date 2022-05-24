@@ -1,0 +1,34 @@
+.menu-left__row:nth-child(1) {
+  background-color: transparent;
+  color: inherit;
+}
+.menu-left__row:nth-child(1):hover {
+  background-color: #90674c;
+  color: #fff;
+}
+.menu-left__row:nth-child(2) {
+  background-color: #90674c;
+  color: #fff;
+  font-weight: 700;
+}
+.card-left-main_acs {
+  color: #90674c;
+  font-weight: 700;
+}
+.left-main__text h2 {
+  font-size: 26px;
+  margin: 10px 0px 10px 0px;
+}
+.left-main__text h3 {
+  font-size: 20px;
+  margin: 10px 0px 10px 0px;
+  line-height: 120%;
+}
+.left-main__text p {
+  font-size: 18px;
+  line-height: 120%;
+}
+.left-main__text ul li {
+  font-size: 18px;
+  margin: 0px 0px 10px 0px;
+}
